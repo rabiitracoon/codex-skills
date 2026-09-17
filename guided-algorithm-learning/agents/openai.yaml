@@ -1,0 +1,4 @@
+interface:
+  display_name: "Guided Algorithm Learning"
+  short_description: "Step-by-step algorithm problem coaching"
+  default_prompt: "Use $guided-algorithm-learning to continue my algorithm study."
