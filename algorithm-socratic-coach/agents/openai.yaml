@@ -1,4 +1,0 @@
-interface:
-  display_name: "알고리즘 소크라틱 코치"
-  short_description: "정답 없이 단계별 질문으로 풀이 사고를 이끄는 코치"
-  default_prompt: "Use $algorithm-socratic-coach to guide me through the algorithm problem on the current webpage without revealing the solution."
